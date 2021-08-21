@@ -1,4 +1,5 @@
-# Instalação do Python
+# Instalação do Python no Linux
+
 
 1- Atualizar o sistema: 
 
