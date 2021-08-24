@@ -13,9 +13,13 @@ Obs. Em alguns casos, pode ser que precise instalar o 'curl'.
 
 	sudo apt-get install curl
 
-3- Baixar o python no site https://www.python.org/
+3- Baixar o python no site:
 
-Exemplo: https://www.python.org/ftp/python/3.9.6/Python-3.9.6.tar.xz
+	https://www.python.org/
+
+Exemplo: 	
+
+	https://www.python.org/ftp/python/3.9.6/Python-3.9.6.tar.xz
 
 4- Descompactar o arquivo do Python baixado:
 
