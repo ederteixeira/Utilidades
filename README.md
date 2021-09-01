@@ -44,7 +44,6 @@ Exemplo:
 8- Instalar pip ou atualizar:
 
 
-	sudo apt-get install python3-pip
+	sudo apt-get install python3-pip python3-venv
 	
 	pip3 install --upgrade pip
-	
